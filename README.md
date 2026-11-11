@@ -6,7 +6,7 @@ Entry for the [make.fun](https://make.fun) bounty
 
 ## What it does
 
-`main.py` (4,034 bytes) is a complete chess engine that plays the
+`main.py` (4,081 bytes) is a complete chess engine that plays the
 trial's 16 games through the env at `MAKEFUN_ENV_URL`: alpha-beta
 search with a transposition table, killer moves, move ordering,
 quiescence over captures/promotions and replies to check, and
